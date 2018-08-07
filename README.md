@@ -6,7 +6,10 @@ __The PL/SQL programming language was developed by Oracle Corporation in the lat
  4. Direct call can also be made from external programming language calls to database. 
  5. PL/SQL's general syntax is based on that of ADA and Pascal programming language. 
  6. Apart from Oracle, PL/SQL is available in TimesTen in-memory database and IBM DB2. 
+
+
 #### Features of PL/SQL PL/SQL has the following features: 
+
 
  1. PL/SQL is tightly integrated with SQL. 
  2. It offers extensive error checking. 
@@ -16,7 +19,9 @@ __The PL/SQL programming language was developed by Oracle Corporation in the lat
  6. It supports object-oriented programming. 
  7. It supports the development of web applications and server pages. 
 
+
 #### Advantages of PL/SQL PL/SQL has the following advantages:
+
 
  1. SQL is the standard database language and PL/SQL is strongly integrated with SQL. 
    2. PL/SQL supports both static and dynamic SQL. 
@@ -25,6 +30,7 @@ __The PL/SQL programming language was developed by Oracle Corporation in the lat
  5. PL/SQL allows sending an entire block of statements to the database at one time. 
    6. This reduces network traffic and provides high performance for the applications. 
  7. PL/SQL gives high productivity to programmers as it can query, transform, and update data in a database. 
+
 
 * Every PL/SQL statement ends with a semicolon (;).
 * PL/SQL blocks can be nested within other PL/SQL blocks using BEGIN and END.
