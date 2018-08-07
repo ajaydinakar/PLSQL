@@ -49,3 +49,5 @@ dbms_output.put_line(message);
 END;
 /
 ~~~
+
+ [Reference](https://www.tutorialspoint.com/plsql/plsql_tutorial.pdf)
